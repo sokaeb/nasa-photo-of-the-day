@@ -65,7 +65,6 @@ useEffect(() => {
   }, []);
 
   
-  
   return (
     <div className="App">
       <Header title={title} date={date} />
